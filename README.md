@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Enttry Software
+- 🔭 I’m currently working on Cyncly
 - 📖 I’m currently learning Parallel Programming and Algorithmic Complexity
 - 💬 Ask me about Astrophysics
 - 📫 How to reach me: bluzaborges@hotmail.com
